@@ -9,4 +9,3 @@ git clone https://git.suckless.org/st
 cd dwm && make clean install
 cd ../st && make clean install
 cd ../dmenu && make clean install && cd ../..
-
