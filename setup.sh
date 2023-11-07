@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/sh
 UTILS="build-essential git make neovim"
 X11="libx11-dev libxinerama-dev libxft-dev xserver-xorg xinit xinput x11-xserver-utils"
 apt install $UTILS $X11
